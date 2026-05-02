@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 关于我：热爱技术
+[在Bilibili上关注我！](https://space.bilibili.com/1130241463/)
+
 ## 个性签名：困惑与迷茫是人生永恒的困苦，而答案只能靠自己去追寻
 
 ## 为什么昵称叫做`keflag`
