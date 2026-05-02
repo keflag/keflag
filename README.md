@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **keflag/keflag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 关于我：热爱技术
+## 个性签名：困惑与迷茫是人生永恒的困苦，而答案只能靠自己去追寻
+
+## 为什么昵称叫做`keflag`
+当初注册账号的时候就是这个名字，这是一种情怀
+**keflag** = `ke` + `flag`（有目标的人）
+
+## 你怎么知道我喜欢的名士是`诸葛亮`？
